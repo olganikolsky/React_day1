@@ -1,0 +1,37 @@
+
+.card {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+p {
+    font-family: "Fraunces", system-ui;
+}
+.mango {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    background-color: antiquewhite;
+    flex-direction: column;
+    border-radius: 30px;
+    padding: 40px;
+}
+.price {
+    color: rgb(28, 35, 43);
+    font-family: "Fraunces", system-ui;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: 32px;
+    padding-left:20px;
+    padding-top: 20px;
+}
+
+
